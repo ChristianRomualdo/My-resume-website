@@ -1,0 +1,38 @@
+body{
+
+    background-color:cornflowerblue;
+    text-align: left;
+}
+
+h1 {
+background-color: darkcyan;
+font-style:oblique;
+font-size: 70px;
+color:brown;
+margin-bottom: 50px; 
+}
+
+h2 {
+    font-size: 40px;
+    text-align:center;
+}
+
+p {
+    font-size: 25px;
+}
+
+hr {
+    margin-top:150px;
+}
+.Center-Education-div{
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+}
+
+footer{
+    margin-top: 300px;
+    text-align: left;
+
+}
+ 
